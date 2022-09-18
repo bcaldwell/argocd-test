@@ -1,0 +1,7 @@
+global:
+  ingress:
+    enabled: true
+  application:
+    logs:
+      ignore:
+        ping: true
